@@ -1,0 +1,31 @@
+[
+    {
+        "domain": "admin-demo.nopcommerce.com",
+        "httpOnly": true,
+        "name": ".Nop.Antiforgery",
+        "path": "/",
+        "sameSite": "Strict",
+        "secure": true,
+        "value": "CfDJ8Flb3LdDU2REkMhHEky0KTfNj4HQaQeLupnl7DQrPO5pf4zFvDz-jj9C1mvtRG1s-wOX1xQqpYIVnilO6xQ_8P6_-FqcmN3IQtkfsabnaAnBom4Gd5OyomhCpBRhZ3IYxaOYUM6zCuH1tnmBCd99OPY"
+    },
+    {
+        "domain": "admin-demo.nopcommerce.com",
+        "expiry": 1770136456,
+        "httpOnly": false,
+        "name": ".Nop.Culture",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "c%3Den-US%7Cuic%3Den-US"
+    },
+    {
+        "domain": "admin-demo.nopcommerce.com",
+        "expiry": 1770136456,
+        "httpOnly": true,
+        "name": ".Nop.Customer",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "1030d936-5dd6-4c11-9bc6-4ca096a75978"
+    }
+]
